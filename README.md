@@ -148,6 +148,13 @@
                     activities are completed using RAM and later stored on the hard drive. </li>
                 <li><B>Motherboard:</B> A large circuit board that holds other components, including the CPU and hard drive. It transmits power to each of those components and assists with communication. </li>
             </ul>
+            <h2>Software:</h2>
+                <p2>Software is the set of instructions that tells hardware what to do. It can be broadly categorized into:</p2>
+                <ul>
+                    <li><B>Operating Systems (OS):</B> The software that manages hardware and software resources. Examples include Windows, macOS, and Linux.</li>
+                    <li><B>Applications:</B> Programs that perform specific tasks for users, such as word processors, web browsers, and games.</li>
+                    <li><B>Utilities:</B> Software that helps maintain, analyze, and optimize computer performance, like antivirus programs and disk management tools.</li>
+                </ul>
     </div>
 </div>
 </div>
