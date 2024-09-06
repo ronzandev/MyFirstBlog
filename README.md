@@ -16,14 +16,14 @@
             border-radius: 2px;
         }
         .container {
-            max-width: auto;
+            max-width: 90%px;
             margin: 0;
             padding: 40px;
             background-color: rgb(153,153,255);
             box-shadow: 0 0 10px rgb(204,204,255);
         }
         .container1 {
-            max-width: auto;
+            max-width: 90%px;
             margin: 0;
             padding: 40px;
             background-color: rgb(153,153,255);
@@ -148,7 +148,6 @@
                     activities are completed using RAM and later stored on the hard drive. </li>
                 <li><B>Motherboard:</B> A large circuit board that holds other components, including the CPU and hard drive. It transmits power to each of those components and assists with communication. </li>
             </ul>
-        </ul>
     </div>
 </div>
 </div>
