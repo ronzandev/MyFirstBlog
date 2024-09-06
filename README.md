@@ -13,25 +13,25 @@
             padding:0;
         }
         .container {
-            width: 100%;
+            width: 70%;
             margin: auto;
             padding: 40px;
         }
         .container1 {
-            width: 90%;
+            width: 60%;
             margin: auto;
             padding: 0px;
         }
         .header-container {
             background-color: rgb(153,153,255);
-            padding: 90px;
+            padding: 30px;
             border-radius: 8px;
             text-align: center;
             margin-bottom: 20px;
         }
         .post {
             background-color:rgb(204,204,255);
-            padding: 900px;
+            padding: 30px;
             margin-bottom: 20px;
             border-radius: 8px;
         }
@@ -51,25 +51,21 @@
     </style>
 </head>
 <body>
-
-    <header style="background-color: rgb(203, 202, 247); color: white; padding: 90px; text-align: justify;">
-            <div style="background-color: rgb(160, 153, 255); padding:100px; border-radius: 2px;">
+    <header style="background-color: rgb(203, 202, 247); color: white; padding: 50px; text-align: justify;">
+            <div style="background-color: rgb(160, 153, 255); padding:40px; border-radius: 2px;">
                 <div style="font-size: 1em; margin-bottom: 10px;"><p1><B><Big> Welcome to my First Blog </Big></B></p1>
                     <div><p2>   -This site is all about a historical viewpoint on computing and the basics of IT.</p2></div>
       </header>
-
     <div class="container">
         <div class="header-container">
-            <h1><B><Big> Ron Zandro's Blog </Big></B></h1>
-       
+            <h1><B><Big> Ron Zandro's Blog </Big></B></h1>       
         <div class="container1">
             <div class="post">
-                <div class="post-title"><B><Big> ITC Lab Requirement 1 - MyFirstBlog </Big></B></div>
-        
+                <div class="post-title"><B><Big> ITC Lab Requirement 1 - MyFirstBlog </Big></B></div>   
               </div>
            </div> 
         <div class="post">
-            <div style="background-color: rgb(153,153,255); padding: 100px; margin-bottom: 20px; border-radius: 8px;">
+            <div style="background-color: rgb(153,153,255); padding: 30px; margin-bottom: 20px; border-radius: 8px;">
                 <div style="font-size: 2em; margin-bottom: 10px;"> Introduction </div>
             <div class="post-content">
                 <p>Computing has come a long way from its early beginnings to the modern digital world we live in today. 
@@ -78,38 +74,30 @@
                     influential figures who drove the field forward, and the impact computing has had on our society.</p>
             </div>
         </div>
-
         <div class="post">
-            <div style="background-color: rgb(153,153,255); padding: 20px; margin-bottom: 20px; border-radius: 8px;">
+            <div style="background-color: rgb(153,153,255); padding: 30px; margin-bottom: 20px; border-radius: 8px;">
                 <div style="font-size: 2em; margin-bottom: 10px;" > <B><Big> Key Milestones in Computing History </Big></B> </div>
             <div class="post-content" style="text-align: justify;">
                 <ol> 
                     <li>The Abacus (c. 3000 BC):
-                    The abacus, one of the earliest known computing devices, was used for arithmetic calculations. It laid the foundation for future computational tools.</li>
-                    
+                    The abacus, one of the earliest known computing devices, was used for arithmetic calculations. It laid the foundation for future computational tools.</li>              
                     <li>Charles Babbage's Analytical Engine (1837):
-                    Often called the "father of the computer," Charles Babbage designed the Analytical Engine, a mechanical general-purpose computer. Although it was never completed, the design concepts are considered the blueprint for modern computers.</li>
-                    
+                    Often called the "father of the computer," Charles Babbage designed the Analytical Engine, a mechanical general-purpose computer. Although it was never completed, the design concepts are considered the blueprint for modern computers.</li>       
                     <li>Alan Turing and the Turing Machine (1936):
-                    Alan Turing introduced the concept of the Turing Machine, a theoretical device that could simulate any computer algorithm. His work laid the groundwork for computer science and artificial intelligence.</li>
-                    
+                    Alan Turing introduced the concept of the Turing Machine, a theoretical device that could simulate any computer algorithm. His work laid the groundwork for computer science and artificial intelligence.</li>       
                     <li>The ENIAC (1945):
-                    The Electronic Numerical Integrator and Computer (ENIAC) was the first general-purpose electronic digital computer. It was used primarily for military calculations during World War II and marked the beginning of the computer age.</li>
-                    
+                    The Electronic Numerical Integrator and Computer (ENIAC) was the first general-purpose electronic digital computer. It was used primarily for military calculations during World War II and marked the beginning of the computer age.</li>  
                     <li>The Advent of the Microprocessor (1971):
-                    The introduction of the microprocessor by Intel revolutionized computing by enabling the development of smaller, more affordable computers. This breakthrough led to the personal computing revolution.</li>
-                    
+                    The introduction of the microprocessor by Intel revolutionized computing by enabling the development of smaller, more affordable computers. This breakthrough led to the personal computing revolution.</li>                 
                     <li>The Rise of the Internet (1980s-1990s):
-                    The development of the internet connected computers globally, enabling the sharing of information and giving rise to the World Wide Web. This milestone transformed communication, commerce, and entertainment.</li>
-                    
+                    The development of the internet connected computers globally, enabling the sharing of information and giving rise to the World Wide Web. This milestone transformed communication, commerce, and entertainment.</li>    
                     <li>The Smartphone Era (2007):
                     The launch of the iPhone in 2007 marked the beginning of the smartphone era, combining computing power, internet access, and mobile communication in a single device. Smartphones have since become ubiquitous, impacting nearly every aspect of daily life.</li>
                 </ol>
             </div>
-        </div>
-
+            </div>
         <div class="post">
-            <div style="background-color: rgb(153,153,255); padding: 20px; margin-bottom: 20px; border-radius: 8px;">
+            <div style="background-color: rgb(153,153,255); padding: 30px; margin-bottom: 20px; border-radius: 8px;">
                 <div style="font-size: 2em; margin-bottom: 10px;" > <B><Big> Influential Figures in Computing </Big></B> </div>
             <div class="post-content" style="text-align: justify;">
                 <ul>
@@ -120,10 +108,9 @@
                 </ul>
             </div>
         </div>
-    </div>
-
+        </div>
         <div class="post">
-            <div style="background-color: rgb(153,153,255); padding: 20px; margin-bottom: 20px; border-radius: 8px;">
+            <div style="background-color: rgb(153,153,255); padding: 30px; margin-bottom: 20px; border-radius: 8px;">
                 <div style="font-size: 2em; margin-bottom: 10px;" ><B><Big> Impact on Society </Big></B></div>
             <div class="post-content">  
                 <p>Computing has reshaped industries, education, healthcare, and communication. It has enabled global connectivity, automation of tasks, and the 
@@ -131,9 +118,8 @@
             </div>
         </div>
     </div>
-
         <div class="header-container">
-            <div style="background-color: rgb(153,153,255); padding: 100px; margin-bottom: 20px; border-radius: 8px;">
+            <div style="background-color: rgb(153,153,255); padding: 30px; margin-bottom: 20px; border-radius: 8px;">
                 <div style="font-size: 2em; margin-bottom: 10px;" >Intro to IT Basics</div>
             <div class="post">
                 <div style="font-size: 2em; margin-bottom: 10px;" >What is IT?</div>
@@ -165,9 +151,7 @@
 </div>
 </div>
 </div>
-</div>
-
-    
+</div>    
     <header style="background-color: rgb(203, 202, 247); color: white; padding: 60px; text-align: justify;">
         <div style="background-color: rgb(160, 153, 255); padding:50px; border-radius: 2px;">
             <div style="font-size: 1em; margin-bottom: 10px;"><p1><B><Big> References</Big></B></p1>
