@@ -46,7 +46,7 @@
     </style>
 </head>
 <body>
-    <header style="background-color: rgb(153,153,255); box-shadow: 0 0 10px rgb(203, 202, 247); color: white; padding: 60px; text-align: justify;">
+    <header style="background-color: rgb(153,153,255); box-shadow: 0 0 10px rgb(203, 202, 247); color: white; max-width: 100%; padding: 60px; text-align: justify;">
         <div style="background-color: rgb(203, 202, 247); box-shadow: 0 0 10px rgb(203, 202, 247); padding:50px; border-radius: 2px;">
             <div style="font-size: 1em; color: rgb(153,153,255); margin-bottom: 10px;"><p1><B><Big> Welcome to my First Blog </Big></B></p1>
                     <div><p2>   -This site is all about a historical viewpoint on computing and the basics of IT.</p2>
@@ -135,7 +135,7 @@
     </div>
     <div class="container1"></div>
         <div style="background-color: rgb(203, 202, 247); padding: 20px; margin-bottom: 5px; border-radius: 8px;">
-            <div style="font-size: 2em; margin-bottom: 10px;" > <B><Big> Influential Figures in Computing </Big></B> </div>
+            <div style="font-size: 2em; margin-bottom: 10px;" > <B><Big> IT Basics </Big></B> </div>
         <div class="header-container" style="text-align: justify;">
             <h1>Hardware Components</h1>
             <p1>Hardware components that you should be familiar with to understand IT. Each of these is essential for an infrastructure based on technology to work. </p1>
@@ -159,7 +159,7 @@
 </div>
 </div>
 </div>
-    <header style="background-color: rgb(153,153,255); box-shadow: 0 0 10px rgb(203, 202, 247); color: white; padding: 60px; text-align: justify;">
+    <header style="background-color: rgb(153,153,255); box-shadow: 0 0 10px rgb(203, 202, 247); color: white; max-width: 100%; padding: 60px; text-align: justify;">
         <div style="background-color: rgb(203, 202, 247); box-shadow: 0 0 10px rgb(203, 202, 247); padding:50px; border-radius: 2px;">
             <div style="font-size: 1em; color: rgb(153,153,255); margin-bottom: 10px; box-shadow: 0 0 10px rgb(153,153,255);"><p1><B><Big> References: </Big></B></p1>
                 <div>
