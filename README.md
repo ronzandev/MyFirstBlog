@@ -16,14 +16,14 @@
             border-radius: 2px;
         }
         .container {
-            max-width: 800%;
+            max-width: auto;
             margin: 0;
             padding: 40px;
             background-color: rgb(153,153,255);
             box-shadow: 0 0 10px rgb(204,204,255);
         }
         .container1 {
-            max-width: 800%;
+            max-width: auto;
             margin: 0;
             padding: 40px;
             background-color: rgb(153,153,255);
@@ -78,13 +78,13 @@
         <div class="header-container" style="text-align: justify;">
             <ol> 
                 <li>The Abacus (c. 3000 BC):
-                The abacus, one of the earliest known computing devices, was used for arithmetic calculations. It laid the foundation for future computational tools.</li> 
+                The abacus, one of the earliest known computing devices, was used for arithmetic calculations. It laid the foundation for future computational tools.</li>          
                 <li>Charles Babbage's Analytical Engine (1837):
-                Often called the "father of the computer," Charles Babbage designed the Analytical Engine, a mechanical general-purpose computer. Although it was never completed, the design concepts are considered the blueprint for modern computers.</li>
+                Often called the "father of the computer," Charles Babbage designed the Analytical Engine, a mechanical general-purpose computer. Although it was never completed, the design concepts are considered the blueprint for modern computers.</li>       
                 <li>Alan Turing and the Turing Machine (1936):
-                Alan Turing introduced the concept of the Turing Machine, a theoretical device that could simulate any computer algorithm. His work laid the groundwork for computer science and artificial intelligence.</li>
+                Alan Turing introduced the concept of the Turing Machine, a theoretical device that could simulate any computer algorithm. His work laid the groundwork for computer science and artificial intelligence.</li>    
                 <li>The ENIAC (1945):
-                The Electronic Numerical Integrator and Computer (ENIAC) was the first general-purpose electronic digital computer. It was used primarily for military calculations during World War II and marked the beginning of the computer age.</li>
+                The Electronic Numerical Integrator and Computer (ENIAC) was the first general-purpose electronic digital computer. It was used primarily for military calculations during World War II and marked the beginning of the computer age.</li>   
                 <li>The Advent of the Microprocessor (1971):
                 The introduction of the microprocessor by Intel revolutionized computing by enabling the development of smaller, more affordable computers. This breakthrough led to the personal computing revolution.</li>
                 <li>The Rise of the Internet (1980s-1990s):
@@ -94,7 +94,7 @@
             </ol>
         </div>
     </div>
-<div class="container1">
+    <div class="container1">
         <div style="background-color: rgb(203, 202, 247); padding: 20px; margin-bottom: 5px; border-radius: 8px;">
             <div style="font-size: 2em; margin-bottom: 10px;" > <B><Big> Influential Figures in Computing </Big></B> </div>
         <div class="header-container" style="text-align: justify;">
@@ -106,8 +106,7 @@
             </ul>
         </div>
     </div>
-
-<div class="container1">
+    <div class="container1">
         <div style="background-color: rgb(203, 202, 247); padding: 20px; margin-bottom: 5px; border-radius: 8px;">
             <div style="font-size: 2em; margin-bottom: 10px;" ><B><Big> Impact on Society </Big></B></div>
         <div class="header-container">  
@@ -123,10 +122,8 @@
 <div class="container">
     <div class="header-container1">
         <h1><B><Big> Intro to IT Basics </Big></B></h1>
-    </div>
-
-    
- <div class="container">
+    </div>  
+    <div class="container">
         <div style="background-color: rgb(203, 202, 247); padding: 20px; margin-bottom: 5px; border-radius: 8px;">
             <div style="font-size: 2em; margin-bottom: 10px;"><B><Big> What is IT?</Big></B> </div>
         <div class="header-container">
@@ -136,8 +133,7 @@
                 The commercial use of IT encompasses both computer technology and telecommunications.</p>
         </div>
     </div>
-
-  <div class="container1"></div>
+    <div class="container1"></div>
         <div style="background-color: rgb(203, 202, 247); padding: 20px; margin-bottom: 5px; border-radius: 8px;">
             <div style="font-size: 2em; margin-bottom: 10px;" > <B><Big> Influential Figures in Computing </Big></B> </div>
         <div class="header-container" style="text-align: justify;">
@@ -160,9 +156,7 @@
 </div>
 </div>
 </div>
-
-
-<header style="background-color: rgb(153,153,255); box-shadow: 0 0 10px rgb(203, 202, 247); color: white; padding: 60px; text-align: justify;">
+    <header style="background-color: rgb(153,153,255); box-shadow: 0 0 10px rgb(203, 202, 247); color: white; padding: 60px; text-align: justify;">
         <div style="background-color: rgb(203, 202, 247); box-shadow: 0 0 10px rgb(203, 202, 247); padding:50px; border-radius: 2px;">
             <div style="font-size: 1em; color: rgb(153,153,255); margin-bottom: 10px; box-shadow: 0 0 10px rgb(153,153,255);"><p1><B><Big> References: </Big></B></p1>
                 <div>
