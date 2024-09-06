@@ -15,12 +15,12 @@
         .container {
             width: 800px;
             margin: auto;
-            padding: 40px;
+            padding: 20px;
         }
         .container1 {
             width: 750px;
             margin: auto;
-            padding: 0px;
+            padding: 20px;
         }
         .header-container {
             background-color: rgb(153,153,255);
@@ -51,8 +51,8 @@
     </style>
 </head>
 <body>
-    <header style="background-color: rgb(203, 202, 247); color: white; padding: 50px; text-align: justify;">
-            <div style="background-color: rgb(160, 153, 255); padding:40px; border-radius: 2px;">
+    <header style="background-color: rgb(203, 202, 247); color: white; padding: 30px; text-align: justify;">
+            <div style="background-color: rgb(160, 153, 255); padding:20px; border-radius: 2px;">
                 <div style="font-size: 1em; margin-bottom: 10px;"><p1><B><Big> Welcome to my First Blog </Big></B></p1>
                     <div><p2>   -This site is all about a historical viewpoint on computing and the basics of IT.</p2></div>
       </header>
@@ -65,7 +65,7 @@
               </div>
            </div> 
         <div class="post">
-            <div style="background-color: rgb(153,153,255); padding: 30px; margin-bottom: 20px; border-radius: 8px;">
+            <div style="background-color: rgb(153,153,255); padding: 20px; margin-bottom: 20px; border-radius: 8px;">
                 <div style="font-size: 2em; margin-bottom: 10px;"> Introduction </div>
             <div class="post-content">
                 <p>Computing has come a long way from its early beginnings to the modern digital world we live in today. 
@@ -75,7 +75,7 @@
             </div>
         </div>
         <div class="post">
-            <div style="background-color: rgb(153,153,255); padding: 30px; margin-bottom: 20px; border-radius: 8px;">
+            <div style="background-color: rgb(153,153,255); padding: 20px; margin-bottom: 20px; border-radius: 8px;">
                 <div style="font-size: 2em; margin-bottom: 10px;" > <B><Big> Key Milestones in Computing History </Big></B> </div>
             <div class="post-content" style="text-align: justify;">
                 <ol> 
@@ -97,7 +97,7 @@
             </div>
             </div>
         <div class="post">
-            <div style="background-color: rgb(153,153,255); padding: 30px; margin-bottom: 20px; border-radius: 8px;">
+            <div style="background-color: rgb(153,153,255); padding: 20px; margin-bottom: 20px; border-radius: 8px;">
                 <div style="font-size: 2em; margin-bottom: 10px;" > <B><Big> Influential Figures in Computing </Big></B> </div>
             <div class="post-content" style="text-align: justify;">
                 <ul>
@@ -110,7 +110,7 @@
         </div>
         </div>
         <div class="post">
-            <div style="background-color: rgb(153,153,255); padding: 30px; margin-bottom: 20px; border-radius: 8px;">
+            <div style="background-color: rgb(153,153,255); padding: 20px; margin-bottom: 20px; border-radius: 8px;">
                 <div style="font-size: 2em; margin-bottom: 10px;" ><B><Big> Impact on Society </Big></B></div>
             <div class="post-content">  
                 <p>Computing has reshaped industries, education, healthcare, and communication. It has enabled global connectivity, automation of tasks, and the 
@@ -119,7 +119,7 @@
         </div>
     </div>
         <div class="header-container">
-            <div style="background-color: rgb(153,153,255); padding: 30px; margin-bottom: 20px; border-radius: 8px;">
+            <div style="background-color: rgb(153,153,255); padding: 20px; margin-bottom: 20px; border-radius: 8px;">
                 <div style="font-size: 2em; margin-bottom: 10px;" >Intro to IT Basics</div>
             <div class="post">
                 <div style="font-size: 2em; margin-bottom: 10px;" >What is IT?</div>
@@ -152,7 +152,7 @@
 </div>
 </div>
 </div>    
-    <header style="background-color: rgb(203, 202, 247); color: white; padding: 60px; text-align: justify;">
+    <header style="background-color: rgb(203, 202, 247); color: white; padding: 20px; text-align: justify;">
         <div style="background-color: rgb(160, 153, 255); padding:50px; border-radius: 2px;">
             <div style="font-size: 1em; margin-bottom: 10px;"><p1><B><Big> References</Big></B></p1>
                 <div>
