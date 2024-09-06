@@ -24,14 +24,14 @@
         }
         .header-container {
             background-color: rgb(153,153,255);
-            padding: 20px;
+            padding: 90px;
             border-radius: 8px;
             text-align: center;
             margin-bottom: 20px;
         }
         .post {
             background-color:rgb(204,204,255);
-            padding: 20px;
+            padding: 900px;
             margin-bottom: 20px;
             border-radius: 8px;
         }
@@ -52,8 +52,8 @@
 </head>
 <body>
 
-    <header style="background-color: rgb(203, 202, 247); color: white; padding: 60px; text-align: justify;">
-            <div style="background-color: rgb(160, 153, 255); padding:50px; border-radius: 2px;">
+    <header style="background-color: rgb(203, 202, 247); color: white; padding: 90px; text-align: justify;">
+            <div style="background-color: rgb(160, 153, 255); padding:100px; border-radius: 2px;">
                 <div style="font-size: 1em; margin-bottom: 10px;"><p1><B><Big> Welcome to my First Blog </Big></B></p1>
                     <div><p2>   -This site is all about a historical viewpoint on computing and the basics of IT.</p2></div>
       </header>
@@ -69,7 +69,7 @@
               </div>
            </div> 
         <div class="post">
-            <div style="background-color: rgb(153,153,255); padding: 20px; margin-bottom: 20px; border-radius: 8px;">
+            <div style="background-color: rgb(153,153,255); padding: 100px; margin-bottom: 20px; border-radius: 8px;">
                 <div style="font-size: 2em; margin-bottom: 10px;"> Introduction </div>
             <div class="post-content">
                 <p>Computing has come a long way from its early beginnings to the modern digital world we live in today. 
@@ -133,7 +133,7 @@
     </div>
 
         <div class="header-container">
-            <div style="background-color: rgb(153,153,255); padding: 20px; margin-bottom: 20px; border-radius: 8px;">
+            <div style="background-color: rgb(153,153,255); padding: 100px; margin-bottom: 20px; border-radius: 8px;">
                 <div style="font-size: 2em; margin-bottom: 10px;" >Intro to IT Basics</div>
             <div class="post">
                 <div style="font-size: 2em; margin-bottom: 10px;" >What is IT?</div>
