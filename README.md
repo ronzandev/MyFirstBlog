@@ -18,14 +18,14 @@
         .container {
             max-width: 90%px;
             margin: 0;
-            padding: 40px;
+            padding: 20px;
             background-color: rgb(153,153,255);
             box-shadow: 0 0 10px rgb(204,204,255);
         }
         .container1 {
             max-width: 90%px;
             margin: 0;
-            padding: 40px;
+            padding: 20px;
             background-color: rgb(153,153,255);
         }
         .header-container {
