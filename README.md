@@ -13,12 +13,12 @@
             padding:0;
         }
         .container {
-            width: 100%;
+            width: 800px;
             margin: auto;
             padding: 40px;
         }
         .container1 {
-            width: 95%;
+            width: 750px;
             margin: auto;
             padding: 0px;
         }
