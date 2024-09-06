@@ -153,9 +153,6 @@
 </div>
 </div>
 </div>
-</div>
-</div>
-</div>
     <header style="background-color: rgb(153,153,255); box-shadow: 0 0 10px rgb(203, 202, 247); color: white; padding: 60px; text-align: justify;">
         <div style="background-color: rgb(203, 202, 247); box-shadow: 0 0 10px rgb(203, 202, 247); padding:50px; border-radius: 2px;">
             <div style="font-size: 1em; color: rgb(153,153,255); margin-bottom: 10px; box-shadow: 0 0 10px rgb(153,153,255);"><p1><B><Big> References: </Big></B></p1>
